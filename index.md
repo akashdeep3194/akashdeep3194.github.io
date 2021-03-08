@@ -3,4 +3,4 @@
 
 
 
-[RESUME] (https://github.io/akashdeep3194/akashresume2021.md)]
+[RESUME] (https://akashdeep3194.github.io/akashresume2021.md)
