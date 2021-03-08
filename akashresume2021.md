@@ -1,4 +1,4 @@
-**akash DEEP**
+**Akash Deep**
 
 **C-12 SARVODAYA NAGAR**
 
@@ -24,8 +24,6 @@ contact no: +91-7408993399 email id: <akashdeep3194@gmail.com>
 
 > **WORK EXPERIENCE**
 
-![](media/image1.png){width="0.823999343832021in"
-height="0.16501859142607175in"}
 
 -   **Cvent (Mar’19 - Present) as Integration Specialist II**:
 
@@ -39,8 +37,7 @@ height="0.16501859142607175in"}
         notify about the errors in the integration across all the client
         solutions
 
-![](media/image2.jpeg){width="0.5634076990376203in"
-height="0.3224048556430446in"}
+
 
 -   **ZS Associates (Sep’17 – Mar’19) as Business Operations
     Associate**:
