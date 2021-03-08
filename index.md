@@ -3,4 +3,4 @@
 
 
 
-[RESUME] (akashresume2021.md)
+[RESUME] {% link akashresume2021.md %}
