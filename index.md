@@ -3,4 +3,4 @@
 
 
 
-[RESUME] {% link akashresume2021.md %}
+[RESUME] (https://github.io/akashdeep3194/akashresume2021.md)]
