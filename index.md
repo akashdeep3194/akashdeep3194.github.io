@@ -7,9 +7,9 @@ Kanpur 208005
 
 email id: akashdeep3194@gmail.com
 
-**Introduction**
+**INTRODUCTION**
 
-I am a creative thinker and believe in asking questions to understand things, I am a person interested in the **why** of a problem along with the **What** and **How** as I believe it makes me more focussed on solving the problem.
+I am a creative thinker and believe in asking questions to understand things, I am a person interested in the **Why** of a problem along with the **What** and **How** as I believe it makes me more focussed on solving the problem.
 Seeking to work in an environment where I can implement my knowledge and skills and help achieve the goals of the organization.
 
 **EDUCATION**
