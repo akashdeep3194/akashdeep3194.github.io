@@ -6,7 +6,8 @@
 
 contact no: +91-7408993399 email id: <akashdeep3194@gmail.com>
 
-**objectives **
+
+**Objectives**
 
 > Seeking to work in an environment where I can implement my knowledge
 > and skills and help achieve the goals of the organization.
