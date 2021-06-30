@@ -98,7 +98,7 @@ contact no: +91-7408993399 email id: <akashdeep3194@gmail.com>
 -   Hobbies include Cricket, playing Badminton and Table Tennis, puzzle
     solving
 
--   Date of Birth: 10^th^ March 1996
+-   Date of Birth: 10th March 1996
 
 -   Father’s Name: Late Mr Deepak Yadav
 
